@@ -1,0 +1,14 @@
+---
+Language: Cpp
+BasedOnStyle: Microsoft
+BraceWrapping:
+  AfterClass: false
+  AfterControlStatement: Never
+  AfterEnum: false
+  AfterExternBlock: false
+  AfterFunction: false
+  AfterNamespace: false
+  AfterObjCDeclaration: false
+  AfterStruct: false
+PointerAlignment: Left
+KeepEmptyLinesAtTheStartOfBlocks: false
