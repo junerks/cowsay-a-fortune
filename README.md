@@ -1,5 +1,7 @@
 Just a stupid lil linux cli program where you can make cowsay say a fortune output with any of the animals specified in the script.
 
+![screenshot](img/s3.png)
+
 Instructions:
 
 - Clone the repo
@@ -21,5 +23,5 @@ Instructions:
   ```
 
 ![screenshot](img/s1.png)
+
 ![screenshot](img/s2.png)
-![screenshot](img/s3.png)
