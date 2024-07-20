@@ -19,3 +19,7 @@ Instructions:
   ```
   cowsay-fortune
   ```
+
+![screenshot](img/s1.png)
+![screenshot](img/s2.png)
+![screenshot](img/s3.png)
