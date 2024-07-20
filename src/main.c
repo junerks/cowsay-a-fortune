@@ -3,7 +3,7 @@
 #include <time.h>
 
 int main(void) {
-    const char* animals[] = {"default", "sheep", "dragon", "ghostbusters", "stegosaurus", "vader"};
+    const char* animals[] = {"default", "sheep", "dragon", "ghostbusters", "stegosaurus", "vader", "tux"};
     int size = sizeof(animals) / sizeof(animals[0]);
 
     srand(time(0));
