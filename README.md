@@ -3,6 +3,9 @@ Just a stupid lil linux cli program where you can make cowsay say a fortune outp
 Instructions:
 
 - Clone the repo
+  ```
+  git clone https://github.com/junerks/cowsay-fortune.git
+  ```
 - cd to the src folder and compile the c file
   ```
   gcc -o cowsay-fortune cowsay-fortune.c
